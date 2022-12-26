@@ -52,10 +52,20 @@ This project was developed with the following technologies:
 ## Installation
 
 ```bash
+# clone to repository
+$ git clone https://github.com/rafael-camara/ignite-lab-04-nodejs.git
+
+# navegue to folder
+$ cd ignite-lab-04-nodejs
+
+# with npm
 $ npm install
+
+# with yarn
+$ yarn
 ```
 
-## Running the app
+## Running the app with npm
 
 ```bash
 # development
@@ -68,17 +78,17 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Running the app with yarn
 
 ```bash
-# unit tests
-$ npm run test
+# development
+$ yarn start
 
-# e2e tests
-$ npm run test:e2e
+# watch mode
+$ yarn start:dev
 
-# test coverage
-$ npm run test:cov
+# production mode
+$ yarn start:prod
 ```
 
 ---
