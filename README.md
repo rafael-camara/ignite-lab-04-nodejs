@@ -55,7 +55,7 @@ This project was developed with the following technologies:
 # clone to repository
 $ git clone https://github.com/rafael-camara/ignite-lab-04-nodejs.git
 
-# navegue to folder
+# navigate to folder
 $ cd ignite-lab-04-nodejs
 
 # with npm
